@@ -3,9 +3,6 @@
 ---
 
 ---
-dg-publish: true
-dg-home: true
----
 
 # Doktora Yeterlilik Notlarım
 
